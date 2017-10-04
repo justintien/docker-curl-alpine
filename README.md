@@ -1,6 +1,6 @@
-# docker-jq-alpine
+# docker-curl-alpine
 
-Docker image for jq based on alpine linux image, just over 5MB in size.
+Docker image for curl based on alpine linux image, just over 5MB in size.
 
 ## Usage
 - you can modify ~/.bashrc or ~/.bash_profile
